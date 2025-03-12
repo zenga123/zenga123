@@ -2,7 +2,7 @@
 
 <!-- 본인의 상황에 맞게 내용 수정 -->
 
-# Hi there!👋 I'm {본인아이디}
+# Hi there!👋 I'm zenga123
 I want to become a developer who creates convenient lives
 
 ## I have...
