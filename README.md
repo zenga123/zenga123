@@ -1,15 +1,11 @@
-## Hi there 👋
-
-<!-- 본인의 상황에 맞게 내용 수정 -->
-
 # Hi there!👋 I'm zenga123
 I aim to develop intuitive mobile experiences that make life more convenient
 
-🔭 ## I have...
+## 🔭 I have...
 ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white)
 
-🌱 ## I studying...
+## 🌱 I studying...
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
