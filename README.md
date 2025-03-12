@@ -1,5 +1,10 @@
+<div align="center">
+
 # Hi there!👋 I'm zenga123
+
 I aim to develop intuitive mobile experiences that make life more convenient
+
+</div>
 
 ## 🔭 I have...
 ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)
