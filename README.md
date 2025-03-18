@@ -12,6 +12,7 @@ I aim to develop intuitive mobile experiences that make life more convenient
 
 ## 🌱 I studying...
 ![Swift](https://img.shields.io/badge/Swift-FA7343?style=flat-square&logo=swift&logoColor=white)
+![Objective-C](https://img.shields.io/badge/Objective--C-000000?style=flat-square&logo=apple&logoColor=white)
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
