@@ -2,7 +2,7 @@
 
 # Hi there!👋 I'm zenga123
 
-I aim to develop intuitive mobile experiences that make life more convenient
+I aim to develop intuitive mobile experiences that make life more convenient.
 
 </div>
 
